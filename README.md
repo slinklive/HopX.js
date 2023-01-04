@@ -1,5 +1,5 @@
-# HopX
-HopX is a more modern and faster webserver, it has live editing, built-in handling with HTML files &amp; easy-to-use functions
+# HopXJS
+HopXJS is a more modern and faster webserver, it has live editing, built-in handling with HTML files &amp; easy-to-use functions
 
 (HopX is no-where near complete and most likely has a v2 coming, but this is it for now)
 
