@@ -8,6 +8,8 @@ HopX is a more modern and faster webserver, it has live editing, built-in handli
 1) Download hopx.js into your project directory
 2) Install handlebars `npm install handlebars`
 
+**Alternatively you can clone the example folder and have a complete working code in minutes, the zip will be uploaded to releases**
+
 **index.js**
 
 ```js
