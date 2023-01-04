@@ -1,7 +1,7 @@
 # HopXJS
 HopXJS is a more modern and faster webserver, it has live editing, built-in handling with HTML files &amp; easy-to-use functions
 
-(HopX is no-where near complete and most likely has a v2 coming, but this is it for now)
+(HopXJS is no-where near complete and most likely has a v2 coming, but this is it for now)
 
 **Pre-coding requirements**
 
