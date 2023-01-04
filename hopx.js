@@ -8,9 +8,9 @@ function server(port, handler) {
     handler(req, res);
   }).listen(port, () => {
     console.log(`
-    [ HopX Webserver ] HopX Webserver is starting please wait...
-    [ HopX Webserver ] Server is listening on port ${port}
-    [ HopX Webserver ] Press Ctrl+C to stop the server
+    [ HopXJS Webserver ] HopX Webserver is starting please wait...
+    [ HopXJS Webserver ] Server is listening on port ${port}
+    [ HopXJS Webserver ] Press Ctrl+C to stop the server
     WARNING: This is a development server, check the documentation for production deployment.
     `);
   });
